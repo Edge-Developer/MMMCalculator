@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MMM Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="disclaimer_warning"><h2>WARNING:\nMMM Participants are Liable to loose their Money.</h2></string>
+    <string name="banner_ad_unit_id">ca-app-pub-9297690518647609/2842868973</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-9297690518647609/5796335374</string>
+    <string name="input_details">Kindly, Input Necessary Fields</string>
+    <string name="mmm_facts">1. MMM is an innovative and experimental platform where people donate money directly to each other.
+    \n\n2. There are no investors and no investments in MMM. Money is not invested in any asset. Money is donated to the other participants. As MMM members donate money (provide help), <b>THERE ARE NO GUARANTEES.</b> Everything depends on the members themselves: they develop the Community making it sustainable and creating a permanent process of the exchange of donations.
+    \n\n3. MMM members are rewarded with Mavro after they donate help to other members of the Community.
+    \n\n4. 30% per month is not an interest rate, but an expected growth rate of Mavro. Growth rate of Mavro and its amount can be adjusted at any moment for the benefit of the Community.
+    \n\n5. Mavro is like scores or grades in colleges. Where do grades come from? Is it possible for grades to be out of stock? Grades are taken from nowhere. Students get grades according to their performance. This is the same with Mavros. Mavro is an evaluation of the contribution made by a participant for the development of the Community.
+    \n\n6. MMM is a self-adjusting Community. The algorithms of matching senders and receivers and algorithms of Mavro reward constantly get adjusted and improved.
+    \n\n7. <b>MMM may crash because it cannot pay its members</b>. This is due to the fact that MMM is not a corporation involved in financial transactions, MMM just connects senders and receivers.
+    \n\n8. The main factor in the MMM Community is its members’ behaviour. The aim of MMM is not to make people rich, but to change their mindset, to encourage people to share what they have with others. Members should not treat MMM as a money making scheme.
+    \n\n9. MMM members can choose the time when they provide and get help. Usually members follow the principle: donate when you have spare money and ask for money when you need to buy something for your family.
+    \n\n10. MMM wants to increase the velocity of money. No need to keep money: share it with others.MMM wants to emphasize the importance of work and productive labour. You should work not because you get paid for that (working just for money is something like selling your soul or body). People should work consciously and deliberately for their personal and public benefit.
+    \n\n Long Live MMM! - Together we shall Change the World.
+    </string>
+    <string name="facts_about_mmm">MMM Facts</string>
+    <string name="buy_or_bitcoin">Buy/Sell BitCoin</string>
+    <string name="intro_txt">Wanna Buy or Sell BitCoins?  Welcome you\'re at the Right Place.\n\nWe Take our Integrity <b>VERY SERIOUSLY</b> and as Such we WILL Deliver on all of our Promises.\n\nWe are Offering to Buy and Sell BitCoins at <b>Very Attractive prices.</b> Get In Touch With us Today!"</string>
+</resources>

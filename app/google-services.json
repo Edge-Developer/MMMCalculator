@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726216512272",
+    "firebase_url": "https://mmmcalculator-d733b.firebaseio.com",
+    "project_id": "mmmcalculator-d733b",
+    "storage_bucket": "mmmcalculator-d733b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726216512272:android:74fa977f109aabfa",
+        "android_client_info": {
+          "package_name": "i.am.edgedeveloper.mmmcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726216512272-3q4d56p4m61jcnh0j1gvkj2uj0j7g1r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "i.am.edgedeveloper.mmmcalculator",
+            "certificate_hash": "0ec0f0cfc9f9f2c17ecf10cee378c4c41483e5c8"
+          }
+        },
+        {
+          "client_id": "726216512272-hptatat59g0dmumcmvtrgmh42r2q78so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3qJHqFiTSXSNVizLoi7Ky6kGwC-oj0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726216512272-hptatat59g0dmumcmvtrgmh42r2q78so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
